@@ -15,3 +15,13 @@
 .expressive-code {
   width: 100%;
 }
+
+:root {
+  --accent-tort: mediumblue;
+  --accent-hare: crimson;
+}
+
+.dark {
+  --accent-tort: #7fb2ff;
+  --accent-hare: #ff7a90;
+}
